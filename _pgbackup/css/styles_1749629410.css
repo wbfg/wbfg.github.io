@@ -12686,7 +12686,6 @@ video.bg-video {
         width: 75vw;
         min-height: 0;
         padding-bottom: 0;
-        opacity: 0.7;
     }
 
     .masthead:before {
