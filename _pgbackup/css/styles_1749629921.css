@@ -8711,8 +8711,6 @@ fieldset:disabled .btn {
 .px-4 {
     padding-right: 1.5rem !important;
     padding-left: 1.5rem !important;
-    text-align: center;
-    opacity: 1;
 }
 
 .px-5 {
@@ -12652,7 +12650,6 @@ video.bg-video {
     max-width: 40rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
-    opacity: 1;
 }
 
 .masthead .masthead-content h1,
@@ -12662,8 +12659,6 @@ video.bg-video {
 
 .masthead .masthead-content p {
     font-size: 1.2rem;
-    width: -2px;
-    text-align: center;
 }
 
 .masthead .masthead-content p strong {
